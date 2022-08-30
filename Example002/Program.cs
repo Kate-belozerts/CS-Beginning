@@ -8,5 +8,7 @@ Console.Write("Enter your name, please");
 string usernameA = Console.ReadLine();
 Console.Write("Hello, ");
 Console.Write(usernameA);
-//WriteLine - на новой строчке; Write - на одной
+//WriteLine - на новой строчке; Write - на одной;
+//ReadLine(); - считать строку из терминала
+
 
