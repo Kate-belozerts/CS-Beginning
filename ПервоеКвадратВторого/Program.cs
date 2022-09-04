@@ -29,8 +29,8 @@ else
 // -3 -> 9
 // -7 -> 49
 
-Console.Clear();
-Console.WriteLine("Enter the number: ");
-int num = Convert.ToInt32(Console.ReadLine());
-int square = num * num;
-Console.WriteLine($"квадрат числа {num} = {square}");
+// Console.Clear();
+// Console.WriteLine("Enter the number: ");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int square = num * num;
+// Console.WriteLine($"квадрат числа {num} = {square}");
