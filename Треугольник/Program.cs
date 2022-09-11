@@ -1,13 +1,14 @@
 ﻿// Console.SetCursorPosition(10, 4);//отступ от левого края - 10, от верхнего - 4 символа(нулевая строка,1,2,3 и на 4й будет +)
 // Console.WriteLine("+");//рисуем плюсиками)
+// Открыть терминал максимально широко!!! Иначе не будет работать!
 Console.Clear();//"чистит консоль" 
 
-int xa = 10; 
+int xa = 38; 
 int ya = 1;
 int xb = 1; 
-int yb = 10;
-int xc = 12; 
-int yc = 12;
+int yb = 38;
+int xc = 76; 
+int yc = 38;
 
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
